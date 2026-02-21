@@ -1,2 +1,3 @@
 # gt_cmmnds
-my repo dive into git commands:)
+:: Hello my git repo commands useful list::
+
