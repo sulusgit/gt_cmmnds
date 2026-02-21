@@ -1,6 +1,9 @@
 ## git commands 
 # Hello my git repo commands useful list
-`git add *` **this comment will look like bold text **
+`git add *` **all new files to satage**
+`git add .` **all new files to satage**
+`git add -A` **all new files to satage**
+`git add [filename.txt]` **add the file only you want to commit**
 
 
 
