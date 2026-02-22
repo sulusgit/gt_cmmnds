@@ -1,4 +1,4 @@
-## git commands 
+## ::octocat:  git commands 
 # Hello my git repo commands useful list
 `git add *` **all new files to satage**
 
