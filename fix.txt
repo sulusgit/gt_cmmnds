@@ -1,3 +1,0 @@
-## fix.txt
-# fix things lits will here
-*delete useless branches
