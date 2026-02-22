@@ -8,7 +8,7 @@
 
 `git add [filename.txt]` **add the file only you want to commit**
 
-`git remote prune [remote_name]` **leaning the local remote!!**
+`git remote prune [remote_name]` **in local cleaning/deleting remote_name remote!!**
 
 
 
